@@ -33,7 +33,7 @@ class Home extends Component{
                 <Promo>
                     "Boing"
                     <p></p>
-                    <h1 >The Sound of our Punches</h1>
+                    <h1 >The Soun of our Punches</h1>
                 </Promo>
             
                 <Container >
