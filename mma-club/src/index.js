@@ -8,6 +8,7 @@ import 'react-mdl/extra/material.js';
 import {BrowserRouter} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+{/*must wrap app with browserrouter for routing to work */}
 ReactDOM.render(
   <BrowserRouter>
     <App />
