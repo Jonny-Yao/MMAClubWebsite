@@ -6,7 +6,8 @@ import {Switch, Route} from 'react-router-dom';
 {/* main is used as the routing component*/}
 const Main = ()=>(
     <Switch>
-        <Route path="/" component = {Home} />
+        <Route exact path="/" component = {Home} />
+        <Route path="/MMA-Club-Website/" component ={Home} />
         <Route path="/about" component = {About} />
         <Route path="/contact" component = {Contact} />
     </Switch>
