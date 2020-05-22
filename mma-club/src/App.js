@@ -27,7 +27,6 @@ class App extends Component{
             <Image src={BoingPic} style={{width: '100px', height:'100px', margin: "10%"}}  />
                 <Navigation>
                     <Link to="/"><Routing>Home</Routing></Link>
-                    <Link to="/MMA-Club-Website/"><Routing>Home</Routing></Link>
                     <Link to="/about"><Routing>About Us</Routing></Link>
                     <Link to="/contact"><Routing>Contact</Routing></Link>
                 </Navigation>
