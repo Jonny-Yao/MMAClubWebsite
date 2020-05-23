@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/MMA-Club-Website/static/css/main.cad3dd93.chunk.css",
-    "main.js": "/MMA-Club-Website/static/js/main.e9147721.chunk.js",
-    "main.js.map": "/MMA-Club-Website/static/js/main.e9147721.chunk.js.map",
-    "runtime-main.js": "/MMA-Club-Website/static/js/runtime-main.8501159d.js",
-    "runtime-main.js.map": "/MMA-Club-Website/static/js/runtime-main.8501159d.js.map",
-    "static/css/2.4465fbfd.chunk.css": "/MMA-Club-Website/static/css/2.4465fbfd.chunk.css",
-    "static/js/2.c95c2071.chunk.js": "/MMA-Club-Website/static/js/2.c95c2071.chunk.js",
-    "static/js/2.c95c2071.chunk.js.map": "/MMA-Club-Website/static/js/2.c95c2071.chunk.js.map",
-    "index.html": "/MMA-Club-Website/index.html",
-    "precache-manifest.116beadfa67880b8d39637144c8b96f6.js": "/MMA-Club-Website/precache-manifest.116beadfa67880b8d39637144c8b96f6.js",
-    "service-worker.js": "/MMA-Club-Website/service-worker.js",
-    "static/css/2.4465fbfd.chunk.css.map": "/MMA-Club-Website/static/css/2.4465fbfd.chunk.css.map",
-    "static/css/main.cad3dd93.chunk.css.map": "/MMA-Club-Website/static/css/main.cad3dd93.chunk.css.map",
-    "static/js/2.c95c2071.chunk.js.LICENSE.txt": "/MMA-Club-Website/static/js/2.c95c2071.chunk.js.LICENSE.txt",
-    "static/media/Aaron.jpg": "/MMA-Club-Website/static/media/Aaron.290eb2e6.jpg",
-    "static/media/boing.png": "/MMA-Club-Website/static/media/boing.321ab68d.png",
-    "static/media/iglogo.jpeg": "/MMA-Club-Website/static/media/iglogo.885d8bad.jpeg",
-    "static/media/jonny.jpg": "/MMA-Club-Website/static/media/jonny.acd453b0.jpg"
+    "main.css": "/MMA-Club-Website/mma-club/static/css/main.cad3dd93.chunk.css",
+    "main.js": "/MMA-Club-Website/mma-club/static/js/main.8614b147.chunk.js",
+    "main.js.map": "/MMA-Club-Website/mma-club/static/js/main.8614b147.chunk.js.map",
+    "runtime-main.js": "/MMA-Club-Website/mma-club/static/js/runtime-main.99d65ace.js",
+    "runtime-main.js.map": "/MMA-Club-Website/mma-club/static/js/runtime-main.99d65ace.js.map",
+    "static/css/2.4465fbfd.chunk.css": "/MMA-Club-Website/mma-club/static/css/2.4465fbfd.chunk.css",
+    "static/js/2.c85c6bde.chunk.js": "/MMA-Club-Website/mma-club/static/js/2.c85c6bde.chunk.js",
+    "static/js/2.c85c6bde.chunk.js.map": "/MMA-Club-Website/mma-club/static/js/2.c85c6bde.chunk.js.map",
+    "index.html": "/MMA-Club-Website/mma-club/index.html",
+    "precache-manifest.ce2c4fc036b347c096184a196d5e2551.js": "/MMA-Club-Website/mma-club/precache-manifest.ce2c4fc036b347c096184a196d5e2551.js",
+    "service-worker.js": "/MMA-Club-Website/mma-club/service-worker.js",
+    "static/css/2.4465fbfd.chunk.css.map": "/MMA-Club-Website/mma-club/static/css/2.4465fbfd.chunk.css.map",
+    "static/css/main.cad3dd93.chunk.css.map": "/MMA-Club-Website/mma-club/static/css/main.cad3dd93.chunk.css.map",
+    "static/js/2.c85c6bde.chunk.js.LICENSE.txt": "/MMA-Club-Website/mma-club/static/js/2.c85c6bde.chunk.js.LICENSE.txt",
+    "static/media/Aaron.jpg": "/MMA-Club-Website/mma-club/static/media/Aaron.290eb2e6.jpg",
+    "static/media/boing.png": "/MMA-Club-Website/mma-club/static/media/boing.321ab68d.png",
+    "static/media/iglogo.jpeg": "/MMA-Club-Website/mma-club/static/media/iglogo.885d8bad.jpeg",
+    "static/media/jonny.jpg": "/MMA-Club-Website/mma-club/static/media/jonny.acd453b0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8501159d.js",
+    "static/js/runtime-main.99d65ace.js",
     "static/css/2.4465fbfd.chunk.css",
-    "static/js/2.c95c2071.chunk.js",
+    "static/js/2.c85c6bde.chunk.js",
     "static/css/main.cad3dd93.chunk.css",
-    "static/js/main.e9147721.chunk.js"
+    "static/js/main.8614b147.chunk.js"
   ]
 }
