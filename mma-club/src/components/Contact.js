@@ -16,7 +16,6 @@ margin-top:2%;
 const VerticalBox = styled.div`
 display:block;
 text-align:center;
-
 `;
 
 class Contact extends Component{
