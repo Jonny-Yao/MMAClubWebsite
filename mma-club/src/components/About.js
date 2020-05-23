@@ -32,12 +32,14 @@ const Information = styled.p`
     margin-left:12%;
     margin-right:12%;
 `;
+{/*holds the left side info */}
 const VerticalBox = styled.div`
     margin-top:2%;
     display:block;
     width:75%;
     font-family: Arial ;
 `;
+{/*holds the faq */}
 const VerticalBox2 = styled.div`
     margin-top:2%;  
     display:block;
@@ -45,7 +47,7 @@ const VerticalBox2 = styled.div`
     margin-right:2%;
     font-family: Arial ;
 `;
-
+{/*contains verticalbox and verticalbox2 */}
 const HorizontalBox = styled.div`
     display:flex;
 `;

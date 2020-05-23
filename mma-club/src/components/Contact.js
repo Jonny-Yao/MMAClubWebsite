@@ -4,6 +4,7 @@ import Image from 'react-bootstrap/Image';
 import Table from 'react-bootstrap/Table';
 import styled from 'styled-components';
 
+{/*this is the wrapper that holds 2 verticalboxes to make them horizontal to eachother */}
 const Layout = styled.div`
 display:flex;
 width:80%;
@@ -13,6 +14,7 @@ margin-right: auto;
 margin-top:2%;
 `;
 
+{/*this was used to make information go vertically */}
 const VerticalBox = styled.div`
 display:block;
 text-align:center;
