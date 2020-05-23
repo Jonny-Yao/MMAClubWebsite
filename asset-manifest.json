@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MMAClubWebsite/static/css/main.cad3dd93.chunk.css",
-    "main.js": "/MMAClubWebsite/static/js/main.b1f70ce9.chunk.js",
-    "main.js.map": "/MMAClubWebsite/static/js/main.b1f70ce9.chunk.js.map",
+    "main.js": "/MMAClubWebsite/static/js/main.eedefc81.chunk.js",
+    "main.js.map": "/MMAClubWebsite/static/js/main.eedefc81.chunk.js.map",
     "runtime-main.js": "/MMAClubWebsite/static/js/runtime-main.ab0b2899.js",
     "runtime-main.js.map": "/MMAClubWebsite/static/js/runtime-main.ab0b2899.js.map",
     "static/css/2.4465fbfd.chunk.css": "/MMAClubWebsite/static/css/2.4465fbfd.chunk.css",
     "static/js/2.5105220f.chunk.js": "/MMAClubWebsite/static/js/2.5105220f.chunk.js",
     "static/js/2.5105220f.chunk.js.map": "/MMAClubWebsite/static/js/2.5105220f.chunk.js.map",
     "index.html": "/MMAClubWebsite/index.html",
-    "precache-manifest.acbd0b8176d5dc517af3b88ca5239714.js": "/MMAClubWebsite/precache-manifest.acbd0b8176d5dc517af3b88ca5239714.js",
+    "precache-manifest.bb334b939a6d89bc9e35b81ce7cc91ed.js": "/MMAClubWebsite/precache-manifest.bb334b939a6d89bc9e35b81ce7cc91ed.js",
     "service-worker.js": "/MMAClubWebsite/service-worker.js",
     "static/css/2.4465fbfd.chunk.css.map": "/MMAClubWebsite/static/css/2.4465fbfd.chunk.css.map",
     "static/css/main.cad3dd93.chunk.css.map": "/MMAClubWebsite/static/css/main.cad3dd93.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.4465fbfd.chunk.css",
     "static/js/2.5105220f.chunk.js",
     "static/css/main.cad3dd93.chunk.css",
-    "static/js/main.b1f70ce9.chunk.js"
+    "static/js/main.eedefc81.chunk.js"
   ]
 }

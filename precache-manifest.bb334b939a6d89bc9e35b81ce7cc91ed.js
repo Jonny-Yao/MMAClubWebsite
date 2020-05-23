@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da8722f8ffb2ec30f645ffa4400a06b5",
+    "revision": "7039119367d943c444eda22ef716d4a2",
     "url": "/MMAClubWebsite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MMAClubWebsite/static/css/2.4465fbfd.chunk.css"
   },
   {
-    "revision": "359f31c78588dfdce461",
+    "revision": "3baee333b9757314aa1e",
     "url": "/MMAClubWebsite/static/css/main.cad3dd93.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MMAClubWebsite/static/js/2.5105220f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "359f31c78588dfdce461",
-    "url": "/MMAClubWebsite/static/js/main.b1f70ce9.chunk.js"
+    "revision": "3baee333b9757314aa1e",
+    "url": "/MMAClubWebsite/static/js/main.eedefc81.chunk.js"
   },
   {
     "revision": "27a81170ac2da58cf529",
