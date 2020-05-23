@@ -15,10 +15,9 @@ const Layout = styled.div`
   font-family:sans-serif;
   color: black;
   display:flex;
-  margin-left: 14%;
-  margin-right: 14%;
   margin-bottom:2%;
   text-align:center;
+  
 `;
 
 {/*used to style the word "instructor" */}
@@ -105,7 +104,7 @@ class About extends Component{
                     <InstructorLabel style={{marginBottom:"5%"}}>Faculty Members</InstructorLabel>
 
                     {/*create a profile component for each teacher */}
-                        <Layout> 
+                        <Layout style={{justifyContent: 'center',alignItems: 'center',}}> 
                             <div >
                                 <Profile name="John" message="Recreational Kickboxer and BJJ white belt" image={JonnyPic}/>
                                 <div>
