@@ -7,6 +7,7 @@ import {Switch, Route} from 'react-router-dom';
 const Main = ()=>(
     <Switch>
         <Route path="/" component = {Home} />
+        <Route path="/index.html" component = {Home} />
         <Route path="/about" component = {About} />
         <Route path="/contact" component = {Contact} />
     </Switch>
