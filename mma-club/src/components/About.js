@@ -15,8 +15,8 @@ const Layout = styled.div`
   font-family:sans-serif;
   color: black;
   display:flex;
-  margin-left: 10%;
-  margin-right: auto;
+  margin-left: 12%;
+  margin-right: 12%;
   margin-bottom:2%;
 `;
 

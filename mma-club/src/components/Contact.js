@@ -23,7 +23,7 @@ class Contact extends Component{
         return(
             <Layout>
                 
-                <VerticalBox >
+                <VerticalBox style={{marginTop:"5%", marginBottom:"5%"}}>
                     <Image src={BoingPic} style={{width: '200px', height:'200px'}} roundedCircle />
                     
                     <h5 style={{fontFamily:"Arial Black"}}>143 Queer Street New York, NY 10001</h5>
