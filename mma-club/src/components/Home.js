@@ -23,6 +23,7 @@ const Promo = styled.div`
   margin-left: auto;
   margin-right: auto;
   margin-top:3%;
+  margin-bottom:3%;
 
 `;
 

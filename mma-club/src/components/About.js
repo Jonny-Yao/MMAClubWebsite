@@ -15,9 +15,10 @@ const Layout = styled.div`
   font-family:sans-serif;
   color: black;
   display:flex;
-  margin-left: 12%;
-  margin-right: 12%;
+  margin-left: 14%;
+  margin-right: 14%;
   margin-bottom:2%;
+  text-align:center;
 `;
 
 {/*used to style the word "instructor" */}
@@ -105,7 +106,7 @@ class About extends Component{
 
                     {/*create a profile component for each teacher */}
                         <Layout> 
-                            <div style={{marginRight: "15%"}}>
+                            <div >
                                 <Profile name="John" message="Recreational Kickboxer and BJJ white belt" image={JonnyPic}/>
                                 <div>
                                     <ProgressBar label={`Wrestling`} variant="danger" now={20} />
@@ -114,7 +115,10 @@ class About extends Component{
                                     <ProgressBar label={`Attitude`} variant="success" now={60} />
                                 </div>
                             </div>
+
+                            <div style={{margin:"5%"}}></div>
                             <div>
+
                                 <Profile name="Aaron" message="D2 All American Wrestler and BJJ blue belt" image={AaronPic}/>
                                 <div>
                                     <ProgressBar label={`Wrestling`} variant="success" now={90} />
