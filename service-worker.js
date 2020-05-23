@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MMA-Club-Website/precache-manifest.f32f8ab5f3ca26b9729c985510f84ef4.js"
+  "/MMA-Club-Website/precache-manifest.116beadfa67880b8d39637144c8b96f6.js"
 );
 
 self.addEventListener('message', (event) => {
